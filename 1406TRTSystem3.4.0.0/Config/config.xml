@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--NephroThai OrElse Center-->
+<!--database config-->
+<configs>
+  <location>2</location>
+  <path>D:\VB2019\RestoreDatabaseTRT\RestoreDatabaseTRT\bin\Debug</path>
+  <filename>1406TRTDatabase.mdb</filename>
+  <centerid>1406</centerid>
+  <centername>ราชพฤกษ์ทรัพย์หนองรีคลินิกเวชกรรม</centername>
+</configs>
